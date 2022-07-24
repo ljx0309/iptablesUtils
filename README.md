@@ -15,7 +15,7 @@ wget --no-check-certificate -qO natcfg.sh https://www.arloor.com/sh/iptablesUtil
 或
 
 ```
-wget --no-check-certificate -qO natcfg.sh https://raw.githubusercontent.com/arloor/iptablesUtils/master/natcfg.sh && bash natcfg.sh
+wget --no-check-certificate -qO natcfg.sh https://raw.githubusercontent.com/ljx0309/iptablesUtils/master/natcfg.sh && bash natcfg.sh
 ```
 
 输出如下：
@@ -39,7 +39,7 @@ wget --no-check-certificate -qO natcfg.sh https://raw.githubusercontent.com/arlo
 ## 卸载
 
 ```shell
-wget --no-check-certificate -qO uninstall.sh https://raw.githubusercontent.com/arloor/iptablesUtils/master/dnat-uninstall.sh && bash uninstall.sh
+wget --no-check-certificate -qO uninstall.sh https://raw.githubusercontent.com/ljx0309/iptablesUtils/master/dnat-uninstall.sh && bash uninstall.sh
 ```
 
 ## 查看日志
